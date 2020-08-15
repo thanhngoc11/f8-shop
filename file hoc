@@ -1,0 +1,27 @@
+các thẻ trong html
+h1 -> h6 (tiêu đề)
+p là các đoạn văn
+img: hiển thị hình ảnh 
+a (anchor) thẻ đặt liên kết
+ul,li là thẻ hiên thị danh sách chứa các phần tử
+table là thẻ tạo bảng
+input tạo ô check 
+button tạo nút
+div để tao khối bao quanh các phân tử khác
+attribute nó là thuộc tính ở trong thẻ mởmở
+có ba cách sử dụng css trong html là:
+- internal(sử dụng bên trong html)  tạo thẻ style 
+- external(bên ngoài) sử dụng file rồi link vào html
+- inline(sử dụng bên trong thẻ mở) sử dụng attribute
+css pseudo-classes(lớp giả trong css)
+- :root
+- :hover làm đổi màu khi đưa con trỏ vào
+- :active làm đổi màu khi nhấn chuột vào
+- :first-child
+- :last-child
+css pseudo-elements(phần tử giả)
+::before
+::after
+::first-letter
+::first-line
+::selection
